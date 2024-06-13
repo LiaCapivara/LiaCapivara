@@ -2,7 +2,7 @@
 
 Meu nome é julia, mas gosto que me chamem de Lia.
 -  estou cursando o segundo ano do ensino médio;
-- comecei a fazer o curso do [Alura](https://www.alura.com.br) no primeiro bimestre desse ano, e permaneço segindo;
+- comecei a fazer o curso do [Alura](https://www.alura.com.br) no primeiro bimestre de 2024, e permaneço segindo;
 - agora sigo aprendendo em varias linguagens, como por exemplo, JavaScript;
 - reservo esse espaço para compartilhar meus projetos desenvolvidos.
 
